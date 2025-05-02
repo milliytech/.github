@@ -1,4 +1,4 @@
-![banner](kasofat.milliytech.uz/static/images/milliytech.svg)
+![banner](https://kasofat.milliytech.uz/static/images/milliytech.svg)
 
 # MilliyTech – O'zbekiston Dasturchilar Hamjamiyati
 
