@@ -1,4 +1,4 @@
-![banner](https://i.postimg.cc/pdMQWd5r/Pics-Art-25-05-02-10-59-14-702.png)
+![banner](https://i.postimg.cc/fW3bCQbT/banner.png)
 
 # MilliyTech – O'zbekiston Dasturchilar Hamjamiyati
 
