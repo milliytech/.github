@@ -1,4 +1,4 @@
-![banner](https://i.postimg.cc/hvvG0v4Y/Pics-Art-25-04-14-12-02-27-558.png)
+![banner](https://i.postimg.cc/pdMQWd5r/Pics-Art-25-05-02-10-59-14-702.png)
 
 # UzStack – O'zbekiston Dasturchilar Hamjamiyati
 
