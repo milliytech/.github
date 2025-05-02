@@ -1,8 +1,8 @@
 ![banner](https://i.postimg.cc/pdMQWd5r/Pics-Art-25-05-02-10-59-14-702.png)
 
-# UzStack – O'zbekiston Dasturchilar Hamjamiyati
+# MilliyTech – O'zbekiston Dasturchilar Hamjamiyati
 
-**UzStack** — bu O'zbekistonlik dasturchilar uchun yaratilgan ochiq hamjamiyat bo‘lib, maqsadimiz texnologiyalar, bilim va tajriba almashish orqali mahalliy IT sohasini rivojlantirishdir.
+**MilliyTech** — bu O'zbekistonlik dasturchilar uchun yaratilgan ochiq hamjamiyat bo‘lib, maqsadimiz texnologiyalar, bilim va tajriba almashish orqali mahalliy IT sohasini rivojlantirishdir.
 
 ## 🎯 Maqsadimiz
 
@@ -29,7 +29,7 @@
 
 ## 💬 Aloqa
 
-- Telegram: [@UzStack](https://t.me/UzStack)
+- Telegram: [@MilliyTech](https://t.me/milliytech_uz)
 - GitHub Issues orqali savollar va takliflar bilan murojaat qiling
 
 ---
