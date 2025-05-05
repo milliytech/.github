@@ -29,7 +29,7 @@
 
 ## 💬 Aloqa
 
-- Telegram: [@MilliyTech](https://t.me/milliytech_uz)
+- Telegram: [@MilliyTech](https://t.me/milliytech)
 - GitHub Issues orqali savollar va takliflar bilan murojaat qiling
 
 ---
